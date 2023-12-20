@@ -1,4 +1,4 @@
-# Job Insights
+# Job Insights (Trybe Project)
 
 This project analyzes a set of employment data.
 
