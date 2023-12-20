@@ -4,7 +4,7 @@ This project analyzes a set of employment data.
 
 The data was extracted from the Glassdoor website and obtained through Kaggle, a platform making datasets available to data scientists.
 
-Worked Skills:
+🚵 Worked Skills:
 
 - Use the Python Interpreter
 - Use conditional and repetition structures.
@@ -73,10 +73,6 @@ Worked Skills:
 - src/insights/jobs.py
 - src/insights/industries.py
 - src/insights/salaries.py
-
-## TO-DO-LIST
-
-- 9-B | src/insights/salaries.py !filter_by_salary_range
 
 ## What Trybe Coded
 
