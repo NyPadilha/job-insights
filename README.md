@@ -1,5 +1,38 @@
 # Job Insights
-Desc.
+
+This project analyzes a set of employment data.
+
+The data was extracted from the Glassdoor website and obtained through Kaggle, a platform making datasets available to data scientists.
+
+Worked Skills:
+
+- Use the Python Interpreter
+- Use conditional and repetition structures.
+- Use Built-In Python functions
+- Use exception handling.
+- Perform file manipulation
+- Write Functions
+- Write tests with Pytest
+- Write your own modules and import them into other codes.
+
+<details>
+    <summary><strong>Portuguese Description</strong></summary></br>
+
+    Esse projeto faz análises a partir de um conjunto de dados sobre empregos.
+
+    Os dados foram extraídos do site Glassdoor e obtidos através do Kaggle, uma plataforma disponiblizando conjuntos de dados para cientistas de dados.
+
+    🚵 Habilidades a serem trabalhadas:
+
+    - Utilizar o terminal interativo do Python.
+    - Utilizar estruturas condicionais e de repetição.
+    - Utilizar funções built-in do Python.
+    - Utilizar tratamento de exceções.
+    - Realizar a manipulação de arquivos.
+    - Escrever funções.
+    - Escrever testes com Pytest.
+    - Escrever seus próprios módulos e importá-los em outros códigos.
+</details>
 
 <br>
 
@@ -25,7 +58,7 @@ Desc.
 
         1. Install dependencies with:
 
-            - `python3 -m pip install -r dev-requirements`
+            - `python3 -m pip install -r dev-requirements.txt`
 
     Test:
 
@@ -40,16 +73,12 @@ Desc.
 - src/insights/jobs.py
 - src/insights/industries.py
 - src/insights/salaries.py
-- 
 
 ## TO-DO-LIST
 
 - 8 | src/insights/salaries.py !matches_salary_range
 - 9-B | src/insights/salaries.py !filter_by_salary_range
 
-- 10-B | tests/brazilian/test_brazilian_jobs.py
-
 ## What Trybe Coded
 
-- End to End Test
 - Basically everything else
