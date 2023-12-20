@@ -52,7 +52,7 @@ Worked Skills:
 
         ?. Install the dependencies:
 
-            - `python3 -m pip install -r dev-requirements`
+            - `python3 -m pip install -r dev-requirements.txt`
 
     Without Venv:
 
@@ -76,7 +76,6 @@ Worked Skills:
 
 ## TO-DO-LIST
 
-- 8 | src/insights/salaries.py !matches_salary_range
 - 9-B | src/insights/salaries.py !filter_by_salary_range
 
 ## What Trybe Coded
